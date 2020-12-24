@@ -3549,6 +3549,12 @@ hr {
   }
 }
 
+@media (max-width: 991px) {
+  .header-area .header-top .header-info-left {
+    display: none !important;
+  }
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 104, C:/Users/HP/Desktop/jun-2020/281.Magazine_News/assets/scss/_headerMenu.scss */
   .header-area .header-top .header-info-right {

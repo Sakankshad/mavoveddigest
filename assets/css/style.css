@@ -3932,7 +3932,7 @@ hr {
 }
 
 /* line 32, C:/Users/HP/Desktop/jun-2020/281.Magazine_News/assets/scss/_banner-news.scss */
-.banner-news .single-baner-nw .banner-img-cap .banner-img .video-icon a {
+/*.banner-news .single-baner-nw .banner-img-cap .banner-img .video-icon a {
   background: #fff;
   color: #ff1313;
   width: 60px;
@@ -3944,10 +3944,10 @@ hr {
   transform: scale(0.5);
   opacity: 0;
   visibility: hidden;
-}
+}*/
 
 /* line 44, C:/Users/HP/Desktop/jun-2020/281.Magazine_News/assets/scss/_banner-news.scss */
-.banner-news .single-baner-nw .banner-img-cap .banner-img .video-icon a::after {
+./*banner-news .single-baner-nw .banner-img-cap .banner-img .video-icon a::after {
   position: absolute;
   border: 51px solid rgba(255, 255, 255, 0.2);
   content: "";
@@ -3957,7 +3957,7 @@ hr {
   right: 0;
   z-index: 0;
   background: #0000;
-}
+}*/
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 32, C:/Users/HP/Desktop/jun-2020/281.Magazine_News/assets/scss/_banner-news.scss */
